@@ -4,7 +4,7 @@ require_relative '../lib/move.rb'
 
 board = [" "," "," "," "," "," "," "," "," "]
 
-puts "Welcome to Tic Tac Toe!"
+prints "Welcome to Tic Tac Toe!"
 puts "Where would you like to go?"
 
 userinput = gets
