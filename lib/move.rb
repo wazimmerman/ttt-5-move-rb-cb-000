@@ -9,6 +9,7 @@ end
 def input_to_index(userinput)
   userinput = userinput.to_i - 1
   input = board[userinput]
+  move
 end
 
 def move(input)
