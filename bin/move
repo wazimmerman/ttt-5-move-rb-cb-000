@@ -9,4 +9,4 @@ puts "Where would you like to go?"
 
 input_to_index(gets)
 
-move([" "," "," "," "," "," "," "," "," "],userinput,"X")
+move(board,userinput,"X")
