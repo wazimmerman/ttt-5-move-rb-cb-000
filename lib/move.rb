@@ -15,5 +15,5 @@ def input_to_index(userinput)
 end
 
 def move(userinput)
-  board = [" "]
+  board[array.index(4)] = "Z"
 end
